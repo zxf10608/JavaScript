@@ -1,6 +1,5 @@
 /* DPlayer-1.27.1的CSS整合版 
 */
-@import '../../node_modules/balloon-css/balloon.css';
 @keyframes my-face {
   2% {
     transform: translate(0, 1.5px) rotate(1.5deg);
